@@ -1,4 +1,4 @@
-# solodesafiogithub2
+# solodesafiogithub
 Fazendo esse desafio sem o uso do tutorial para aprendizado
 
 ### git config serve para logar em uma nova maquina (git config -global user.name "seu nome" // -global user.email
