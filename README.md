@@ -12,4 +12,4 @@
 ### git reset <file> ou git reset  -> restaura para o ultimo commit
 ### git remote add origin <repository URL>  -> vincula ao repositorio github
 
-  
+<a href=https://docs.google.com/document/d/e/2PACX-1vSIUrYS_BFVGejzUAu7IFVKa7uqsqzjL_QluDWmTLMVVKP5VfGXceTtXMXGxefqs9LDvEDNWcwmjZC6/pub>COMANDOS & SSH GENERATION</a>
