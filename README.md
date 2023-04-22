@@ -17,7 +17,8 @@
 <p>Liste as branches disponíveis para o checkout</p> 
 <code>git branch -a</code>
 <p>O resultado desse comando é a lista de branches disponíveis para checkout. Para ver as branches remotas, você as verá prefixadas com remotes/origin.</p> 
-
+<p> Agora altere para a branch remota </p>
+<code> git checkout --track origin/my-branch-name </code>
 <p>Faça o pull das alterações de uma branch remota
 Observe que você não pode fazer alterações diretamente em uma branch remota. Assim, você precisa de uma cópia dessa branch. Digamos que você queira copiar a branch remota fix-failing-tests. Você faria isso dessa forma:</p> 
 <code>git checkout -b fix-failing-tests origin/fix-failing-tests</code>
@@ -27,6 +28,8 @@ O que isso faz:
 <li>faz o checkout daquela branch</li>
 <li>faz o pull das alterações de origin/fix-failing-tests para aquela branch</li>
 </ul>
+
+
 
 
 ## ARQUIVO CONFIGURANDO CHAVE SSH
